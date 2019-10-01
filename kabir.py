@@ -48,4 +48,4 @@ async def on_ready():
 
 
 
-client.run("TOKEN", bot=False)
+client.run("NTYwMDk0Mzk2ODg4OTA3Nzg2.XZN5dQ.-2u9QT2rcy--rnufd6fmBHJZZM4", bot=False)
